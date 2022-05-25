@@ -10,7 +10,7 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: p.bourrat@gmail.com
+    link: mailto:p.bourrat@gmail.com
     display:
       header: true
   - icon: twitter
