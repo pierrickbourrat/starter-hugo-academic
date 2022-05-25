@@ -44,7 +44,7 @@ email: p.bourrat@gmail.com
 superuser: true
 highlight_name: true
 ---
- am a Senior Lecturer & DECRA Fellow at Macquarie University. I specialise in philosophy of biology. Together with Paul Griffiths, I head the[](https://web.archive.org/web/20220309145848/http://griffithslab.org/) Theory and Method in Biosciences [](https://tmbiosci.org/)group, a joint research group between the University of Sydney and Macquarie University.
+I am a Senior Lecturer & DECRA Fellow at Macquarie University. I specialise in philosophy of biology. Together with Paul Griffiths, I head the[](https://web.archive.org/web/20220309145848/http://griffithslab.org/) Theory and Method in Biosciences [](https://tmbiosci.org/)group, a joint research group between the University of Sydney and Macquarie University.
 
 From 2017 to 2020 I was a Macquarie University Research Fellow. I completed a PhD in philosophy of biology at the University of Sydney under the supervision of Paul Griffiths in 2015.
 
