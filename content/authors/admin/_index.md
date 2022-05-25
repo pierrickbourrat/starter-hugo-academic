@@ -4,19 +4,25 @@ role: Senior Lecturer & DECRA Fellow
 bio: I am a philosopher of biology interested in evolutionary theory
 interests:
   - Evolutionary theory
-  - natural selection
-  - levels of selection
+  - Natural selection
+  - Levels of selection
   - Individuality
 social:
   - icon: envelope
     icon_pack: fas
     link: p.bourrat@gmail.com
+    display:
+      header: true
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/pierrickbourrat
+    display:
+      header: true
   - icon: graduation-cap
     icon_pack: fas
     link: https://scholar.google.com/citations?user=OdPTjCsAAAAJ&hl=fr
+    display:
+      header: true
 organizations:
   - name: Macquarie University
     url: https://www.mq.edu.au
@@ -26,13 +32,13 @@ education:
       institution: The University of Sydney
       year: 2015
     - course: MA in Philosophy
-      institution: Paris 7
+      institution: Univeristy Paris 7
       year: 2009
     - course: Msc in Evolutionary Biology & Ecology
-      institution: Montpellier
+      institution: Université of Montpellier
       year: 2008
     - course: Bsc in Biology
-      institution: Clermont Ferrand
+      institution: University Blaise Pacal (Clermont-Ferrand)
       year: 2006
 email: p.bourrat@gmail.com
 superuser: true
