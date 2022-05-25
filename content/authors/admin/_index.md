@@ -3,13 +3,14 @@ title: Pierrick Bourrat
 role: Senior Lecturer & DECRA Fellow
 bio: I am a philosopher of biology interested in evolutionary theory
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Evolutionary theory
+  - natural selection
+  - levels of selection
+  - Individuality
 social:
   - icon: envelope
     icon_pack: fas
-    link: /#contact
+    link: p.bourrat@gmail.com
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/pierrickbourrat
