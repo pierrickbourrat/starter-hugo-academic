@@ -42,7 +42,7 @@ education:
       institution: University Blaise Pacal (Clermont-Ferrand)
       year: 2006
 email: p.bourrat@gmail.com
-superuser: true
+superuser: false
 highlight_name: true
 ---
 I am a Senior Lecturer & DECRA Fellow at Macquarie University. I specialise in philosophy of biology. Together with Paul Griffiths, I head the[](https://web.archive.org/web/20220309145848/http://griffithslab.org/) Theory and Method in Biosciences [](https://tmbiosci.org/)group, a joint research group between the University of Sydney and Macquarie University.
