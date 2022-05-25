@@ -1,7 +1,7 @@
 ---
 title: Pierrick Bourrat
 role: Senior Lecturer & DECRA Fellow
-avatar_filename: pierrick-portrait.jpg
+avatar_filename: assets/media/pierrick-portrait.jpg
 bio: I am a philosopher of biology interested in evolutionary theory
 interests:
   - Evolutionary theory
