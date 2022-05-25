@@ -12,31 +12,28 @@ social:
     link: /#contact
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://twitter.com/pierrickbourrat
   - icon: graduation-cap
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/gcushen
-  - icon: linkedin
-    icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://scholar.google.com/citations?user=OdPTjCsAAAAJ&hl=fr
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Macquarie University
+    url: https://www.mq.edu.au
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
+    - course: PhD in Philosophy
+      institution: The University of Sydney
+      year: 2015
+    - course: MA in Philosophy
+      institution: Paris 7
       year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
+    - course: Msc in Evolutionary Biology & Ecology
+      institution: Montpellier
       year: 2008
-email: ""
+    - course: Bsc in Biology
+      institution: Clermont Ferrand
+      year: 2006
+email: p.bourrat@gmail.com
 superuser: true
 highlight_name: true
 ---
