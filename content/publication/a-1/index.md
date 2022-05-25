@@ -4,7 +4,7 @@ subtitle: ""
 publication_types:
   - "2"
 authors:
-  - Pierrick \textbfBourrat$^\dagger$
+  - Pierrick Bourrat
   - Nicolas Baumard
   - Ryan McKay
 publication: ""
@@ -22,5 +22,5 @@ image:
 summary: ""
 lastmod: 2022-05-25T21:31:04+10:00
 date: 2011-01-01
-publishDate: 2022-05-25T11:31:02.655599Z
+publishDate: 2022-05-25T11:31:02.655Z
 ---
