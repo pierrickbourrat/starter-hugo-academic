@@ -1,5 +1,5 @@
 ---
-title: Surveillance Cues Enhance Moral Condemnation.
+title: Surveillance Cues Enhance Moral Condemnation
 subtitle: ""
 publication_types:
   - "2"
