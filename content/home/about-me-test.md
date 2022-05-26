@@ -1,8 +1,9 @@
 ---
-widget: About me
+widget: portfolio
 widget_id: About me test
 headless: true
-weight: 0
+weight: 65
+title: About me
 active: true
 design:
   columns: "2"
