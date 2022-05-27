@@ -53,4 +53,4 @@ My work focuses on core concepts of evolutionary theory such as fitness and heri
 
 My other interests include, the interplay between biological and cultural evolution and the evolution of religious beliefs
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
