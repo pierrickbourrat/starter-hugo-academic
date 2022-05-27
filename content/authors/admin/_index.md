@@ -33,16 +33,16 @@ education:
       institution: The University of Sydney
       year: 2015
     - course: MA in Philosophy
-      institution: Univeristy Paris 7
+      institution: Univeristé Paris 7
       year: 2009
     - course: Msc in Evolutionary Biology & Ecology
       institution: Université of Montpellier
       year: 2008
     - course: Bsc in Biology
-      institution: University Blaise Pacal (Clermont-Ferrand)
+      institution: Université Blaise Pacal (Clermont-Ferrand)
       year: 2006
 email: p.bourrat@gmail.com
-superuser: false
+superuser: true
 highlight_name: true
 ---
 I am a Senior Lecturer & DECRA Fellow at Macquarie University. I specialise in philosophy of biology. Together with Paul Griffiths, I head the[](https://web.archive.org/web/20220309145848/http://griffithslab.org/) Theory and Method in Biosciences [](https://tmbiosci.org/)group, a joint research group between the University of Sydney and Macquarie University.
